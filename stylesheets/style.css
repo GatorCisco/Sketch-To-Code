@@ -1,0 +1,57 @@
+
+
+header{
+  background-color:rgba(32, 62,92, .2);
+  text-align: right;
+
+  /*font: "Myanmar Mn", bold, 200px;*/
+  /*opacity: .2;*/
+  /*z-index: -1;*/
+}
+
+
+.main-title{
+
+  font-family: "Myanmar Mn";
+  font-weight: bold;
+  margin-right: 32px;
+
+  /*z-index: 1;*/
+}
+header h1{
+  color: rgba(76, 77, 79, 100);
+  font-size: 100;
+  margin: 0;
+  padding-top: 27px;
+  margin-right: : 32px;
+  margin-bottom: 27px;
+}
+header h2{
+  color:rgba(120,125,122,100);
+  font-size: 48;
+  margin-t
+  op: 0px;
+  /*margin-right: 46;*/
+}
+.inline{
+  display:inline-block;
+}
+
+main aside{
+  position:relative;
+  top: 0px;
+  width: 269px;
+  height: 637px;
+  background-color: rgba(135, 141, 148, .2);
+}
+main section{
+
+  position: relative;
+  top:0px;
+  width:600px;
+}
+.list-item{
+  list-style: none;
+  /*text-align: left;*/
+  margin-left;
+}
